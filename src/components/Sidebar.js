@@ -32,7 +32,7 @@ function Sidebar() {
       <SidebarOption Icon={ExpandMoreIcon} title="More" number={54} />
 
       <div className="sidebar__footer">
-        <h3>Labels</h3>
+        <h4>Labels</h4>
         <IconButton> 
           <AddIcon />
         </IconButton>
